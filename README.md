@@ -1,1 +1,1 @@
-# expenses-app
+# ReactNative App for Expenses
