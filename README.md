@@ -1,1 +1,1 @@
-# ReactNative App for Expenses
+# ReactNative Expense tracking app with RoR Backend
