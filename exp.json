@@ -1,6 +1,6 @@
 {
   "name": "expense-app",
-  "description": "An empty new project",
+  "description": "Expense app",
   "slug": "expense-app",
   "privacy": "public",
   "sdkVersion": "16.0.0",
